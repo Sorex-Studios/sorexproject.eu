@@ -6,10 +6,3 @@ csxvsdvsdxwcs
 
 # Hello Sorex Community
 cx sd sd sddsvsdvsdvEDds
-
-
-ds
-cdsc
-sdcsdvd
-sv
-ds
