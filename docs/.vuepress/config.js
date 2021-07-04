@@ -3,6 +3,9 @@ module.exports = {
     title: 'Sorex Studio',
     description: 'Community',
     port: '8080',
+    head: [
+        ['link', { rel: 'icon', href: '/LogoPNG3.png' }]
+    ],
     themeConfig: {
         activeHeaderLinks: false,
         // LOGO
@@ -23,14 +26,15 @@ module.exports = {
         // The sidebar automatically displays links for headers in the current active page, nested under the link for the page itself. You can customize this behavior using themeConfig.sidebarDepth. The default depth is 1, which extracts the h2 headers. Setting it to 0 disables the header links, and the max value is 2 which extracts both h2 and h3 headers.
         sidebarDepth: 2,
         sidebar: [{
-            title: 'TEST', // required
+            title: 'Group 1', // required
+            path: '/foo/', // optional, link of the title, which should be an absolute path and must exist
+            collapsable: false, // optional, defaults to true
             children: [
                 '/',
                 '/T6ZB/Bank.html'
+
             ]
         }],
-
-
     }
 
 }
