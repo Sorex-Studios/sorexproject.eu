@@ -16,17 +16,7 @@ module.exports = {
         // default value is true. Set it to false to hide next page links on all pages
         nextLinks: true,
         // default value is true. Set it to false to hide prev page links on all pages
-        prevLinks: true,
-        nav: [{
-                text: 'Languages',
-                ariaLabel: 'Language Menu',
-                items: [
-                    { text: 'Chinese', link: '/language/chinese/' },
-                    { text: 'Japanese', link: '/language/japanese/' }
-                ]
-            }
-
-        ]
+        prevLinks: true
     }
 
 }
