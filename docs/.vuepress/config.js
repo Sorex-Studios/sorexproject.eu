@@ -3,6 +3,6 @@ module.exports = {
     title: 'Sorex Studio',
     description: 'community',
     themeConfig: {
-        logo: 'https://media.discordapp.net/attachments/760210364008366200/826516927367217222/LogoPNG3.png',
+        logo: 'https://i.noxsys.live/sorexproject/logo.png',
     },
 }
