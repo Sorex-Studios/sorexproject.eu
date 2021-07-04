@@ -4,8 +4,9 @@ module.exports = {
     description: 'Community',
     port: '8080',
     themeConfig: {
+        activeHeaderLinks: false,
         // LOGO
-        logo: 'https://media.discordapp.net/attachments/760210364008366200/826516927367217222/LogoPNG3.png',
+        logo: '/LogoPNG3.png',
         // default value is true. Set it to false to hide next page links on all pages
         nextLinks: true,
         // default value is true. Set it to false to hide prev page links on all pages
