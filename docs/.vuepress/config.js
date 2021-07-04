@@ -7,8 +7,16 @@ module.exports = {
         displayAllHeaders: true,
         sidebar: [
             '/',
-            '/page-a', ['/page-b', 'Explicit link text'],
+            '/anticheat.html', ['/page-b', 'Explicit link text']
         ],
+        search: true,
+        searchMaxSuggestions: 10,
+        searchPlaceholder: 'Search...',
+        lastUpdated: 'Last Updated',
+        // default value is true. Set it to false to hide next page links on all pages
+        nextLinks: true,
+        // default value is true. Set it to false to hide prev page links on all pages
+        prevLinks: true,
         nav: [{
                 text: 'Languages',
                 ariaLabel: 'Language Menu',
