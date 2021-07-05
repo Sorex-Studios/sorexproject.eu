@@ -7,6 +7,7 @@ module.exports = {
         ['link', { rel: 'icon', href: '/logo.png' }]
     ],
     theme: '@vuepress/theme-default',
+    // theme: '@vuepress/plugin-medium-zoom',
     themeConfig: {
         activeHeaderLinks: false,
         // LOGO
@@ -15,9 +16,11 @@ module.exports = {
         nextLinks: true,
         // default value is true. Set it to false to hide prev page links on all pages
         prevLinks: true,
-        // You can disable the built-in search box with themeConfig.search: false, and customize how many suggestions will be shown with themeConfig.searchMaxSuggestions:
-        // search: true,
-        // searchMaxSuggestions: 10,
+        // If you set it in the form of `organization/repository`
+        // we will take it as a GitHub repo
+        // You can also set it to a URL directly
+        repo: 'https://github.com/SorexProject/sorexproject.eu',
+
         // You can add links to the navbar via themeConfig.nav:
         navbar: [
             // NavbarItem
