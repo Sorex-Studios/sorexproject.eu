@@ -28,7 +28,7 @@ module.exports = {
     themeConfig: {
         activeHeaderLinks: true,
         // LOGO
-        logo: '/logo.png',
+        logo: '/assets/images/logo.png',
         // default value is true. Set it ton false to hide next page links on all pages
         nextLinks: true,
         // default value is true. Set it to false to hide prev page links on all pages
