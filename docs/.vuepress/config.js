@@ -8,8 +8,25 @@ module.exports = {
     ],
     theme: '@vuepress/theme-default',
     // theme: '@vuepress/plugin-medium-zoom',
+
+    // wait the new version
+    // plugins: [
+    //     [
+    //         '@vuepress/docsearch',
+    //         {
+    //             apiKey: 'd14e9c7c45cd5150e55361797a89cc2b',
+    //             indexName: 'Sorex Studio',
+    //             locales: {
+    //                 '/': {
+    //                     placeholder: 'Search Documentation',
+    //                 },
+    //             },
+    //         },
+    //     ],
+    // ],
+
     themeConfig: {
-        activeHeaderLinks: false,
+        activeHeaderLinks: true,
         // LOGO
         logo: '/logo.png',
         // default value is true. Set it ton false to hide next page links on all pages
@@ -20,7 +37,7 @@ module.exports = {
         docsRepo: 'https://github.com/SorexProject/sorexproject.eu',
         docsBranch: 'master',
         docsDir: 'docs',
-        editLinkPattern: ':repo/-/edit/:branch/:path',
+        editLinkPattern: ':repo/edit/:branch/:path',
         repo: 'https://github.com/SorexProject/sorexproject.eu',
 
         //If you want to set different sidebar for different sub paths, you can set this option to a sidebar object:
@@ -32,7 +49,7 @@ module.exports = {
                 text: 'Zombies',
                 link: '/Zombies',
                 children: [
-                    "/Zombies/Features",
+                    "/Zombies/Features.md",
                     "/Zombies/Ranks.md",
                     "/Zombies/Bank.md",
                     "/Zombies/Custom-Perks.md",
