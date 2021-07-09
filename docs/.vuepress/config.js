@@ -21,7 +21,7 @@ module.exports = {
         docsBranch: 'master',
         docsDir: 'docs',
         editLinkPattern: ':repo/-/edit/:branch/:path',
-        repo: 'https://gitlab.com/foo/bar',
+        repo: 'https://github.com/SorexProject/sorexproject.eu',
 
         //If you want to set different sidebar for different sub paths, you can set this option to a sidebar object:
         // The key should be the path prefix.
