@@ -16,10 +16,31 @@ module.exports = {
         nextLinks: true,
         // default value is true. Set it to false to hide prev page links on all pages
         prevLinks: true,
-        // If you set it in the form of `organization/repository`
-        // we will take it as a GitHub repo
-        // You can also set it to a URL directly
-        repo: 'https://github.com/SorexProject/sorexproject.eu',
+
+        docsRepo: 'https://github.com/SorexProject/sorexproject.eu',
+        docsBranch: 'master',
+        docsDir: 'docs',
+        editLinkPattern: ':repo/-/edit/:branch/:path',
+        repo: 'https://gitlab.com/foo/bar',
+
+        //If you want to set different sidebar for different sub paths, you can set this option to a sidebar object:
+        // The key should be the path prefix.
+        // The value should be a sidebar array.       
+        sidebar: [
+            '/README.md',
+            {
+                text: 'Zombies',
+                link: '/Zombies',
+                children: [
+                    "/Zombies/Features",
+                    "/Zombies/Ranks.md",
+                    "/Zombies/Bank.md",
+                    "/Zombies/Custom-Perks.md",
+                    "/Zombies/Challenge.md",
+                ]
+            },
+        ],
+
 
         // You can add links to the navbar via themeConfig.nav:
         navbar: [
