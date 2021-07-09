@@ -1,0 +1,3 @@
+# BANK
+
+:money_mouth_face::money_mouth_face::money_mouth_face::money_mouth_face::money_mouth_face::money_mouth_face::money_mouth_face::money_mouth_face::money_mouth_face::money_mouth_face::money_mouth_face::money_mouth_face::money_mouth_face::money_mouth_face::money_mouth_face::money_mouth_face::money_mouth_face::money_mouth_face::money_mouth_face::money_mouth_face::money_mouth_face::money_mouth_face::money_mouth_face::money_mouth_face::money_mouth_face::money_mouth_face::money_mouth_face::money_mouth_face::money_mouth_face::money_mouth_face::money_mouth_face::money_mouth_face::money_mouth_face:
