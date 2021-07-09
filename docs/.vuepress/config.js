@@ -4,7 +4,7 @@ module.exports = {
     description: 'Community',
     port: '8080',
     head: [
-        ['link', { rel: 'icon', href: '/logo.png' }]
+        ['link', { rel: 'icon', href: '/assets/images/logo.png' }]
     ],
     theme: '@vuepress/theme-default',
     // theme: '@vuepress/plugin-medium-zoom',
