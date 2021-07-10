@@ -44,7 +44,7 @@ The project team is very competent, we are all young people with the desire to l
 
 | Name  | Rank  | Rules | Country of origin |
 | :------------ |:---------------:| -----| -----|
-| [DoktorSAS](/Team/DoktorSAS.html)      | Creator & Dev | DoktorSAS is the project leader, managing the community, the servers and their mods. | EU |
+| [DoktorSAS](https://github.com/DoktorSAS/Sorex/blob/main/developer%20team/DoktorSAS.md)      | Creator & Dev | DoktorSAS is the project leader, managing the community, the servers and their mods. | EU |
 | williampilote | Manager        | williampilote is the owner of williampilote who has chosen to join the Sorex Project. He takes care of the management of the zombies server and their reservations | EU |
 | Skid | Manager & Dev        | Skid is the owner of Skid Servers who has chosen to join the Sorex Project. He takes care of the management of the Trickshot server and Mods | USA |
 | MrReeko | Manager & Dev        | MrReeko is a is a young man who has made his knowledge available to support the Sorex Project | US |
