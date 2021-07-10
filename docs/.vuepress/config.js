@@ -51,8 +51,8 @@ module.exports = {
                 children: [
                     "/Zombies/Features.md",
                     "/Zombies/Ranks.md",
-                    "/Zombies/Bank.md",
                     "/Zombies/Custom-Perks.md",
+                    "/Zombies/Bank.md",
                     "/Zombies/Challenge.md",
                 ]
             },
