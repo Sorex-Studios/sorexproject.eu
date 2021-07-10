@@ -37,7 +37,7 @@ In the project there are also Sorex Servers, that is servers dedicated to player
 ## Discord
 Community Discord is reaching 1000 users.For the project it is very important to know your opinion about this discord you can report bugs and present new ideas. The project is dedicated for the players and their opinion is very important
 ##### Discord: [Press me to Join](https://discord.gg/nCP2y4J)
-![Discord](https://imgur.com/aPGv8FN.png)
+![Discord](/assets/images/discord.png)
 
 # Sorex Team
 The project team is very competent, we are all young people with the desire to learn and to test ourselves.
@@ -48,5 +48,3 @@ The project team is very competent, we are all young people with the desire to l
 | williampilote | Manager        | williampilote is the owner of williampilote who has chosen to join the Sorex Project. He takes care of the management of the zombies server and their reservations | EU |
 | Skid | Manager & Dev        | Skid is the owner of Skid Servers who has chosen to join the Sorex Project. He takes care of the management of the Trickshot server and Mods | USA |
 | MrReeko | Manager & Dev        | MrReeko is a is a young man who has made his knowledge available to support the Sorex Project | US |
-### Others Pages
-- [Black ops II Trickshot Servers](https://github.com/DoktorSAS/Sorex/blob/main/Black%20ops%20II/Trickshot%20Server.md)
