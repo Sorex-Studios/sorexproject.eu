@@ -37,7 +37,8 @@ In the project there are also Sorex Servers, that is servers dedicated to player
 ## Discord
 Community Discord is reaching 1000 users.For the project it is very important to know your opinion about this discord you can report bugs and present new ideas. The project is dedicated for the players and their opinion is very important
 ##### Discord: [Press me to Join](https://discord.sorexproject.eu/)
-![Discord](/assets/images/discord.png)
+<p></p>
+<iframe src="https://discord.com/widget?id=594889580067553280&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 # Sorex Team
 The project team is very competent, we are all young people with the desire to learn and to test ourselves.
