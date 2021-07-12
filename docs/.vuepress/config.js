@@ -1,6 +1,6 @@
 module.exports = {
     lang: 'en-US',
-    title: 'Sorex Studio',
+    title: 'Sorex Studios',
     description: 'Community',
     port: '8080',
     head: [
@@ -15,7 +15,7 @@ module.exports = {
     //         '@vuepress/docsearch',
     //         {
     //             apiKey: 'd14e9c7c45cd5150e55361797a89cc2b',
-    //             indexName: 'Sorex Studio',
+    //             indexName: 'Sorex Studios',
     //             locales: {
     //                 '/': {
     //                     placeholder: 'Search Documentation',
@@ -46,16 +46,40 @@ module.exports = {
         sidebar: [
             '/README.md',
             {
-                text: 'Zombies',
-                link: '/Zombies',
+                text: 'Black ops II Servers',
+                link: '/t6',
                 children: [
-                    "/Zombies/Features.md",
-                    "/Zombies/Ranks.md",
-                    "/Zombies/Custom-Perks.md",
-                    "/Zombies/Bank.md",
-                    "/Zombies/Challenge.md",
+                    {
+                        text: 'Zombies Servers',
+                        link: '/t6/zombies',
+                        children: [
+                            "/t6/zombies/features.md",
+                            "/t6/zombies/ranks.md",
+                            "/t6/zombies/perks.md",
+                            "/t6/zombies/bank.md",
+                            "/t6/zombies/challenge.md",
+                        ]
+                    },
+                    {   
+                        text: 'Multplayer Servers',
+                        link: '/t6/multiplayer',
+                        children: [
+                            "/t6/multiplayer/features.md",
+                            "/t6/multiplayer/ranks.md",
+                        ]
+                    },
+                   
                 ]
             },
+            {
+                text: 'Server Hosting',
+                link: '/hosting',
+                children: [
+                    "/hosting/clients/T6.md", 
+                    "/hosting/clients/T4.md",
+                ]
+            }
+
         ],
 
 
