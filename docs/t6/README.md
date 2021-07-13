@@ -1,7 +1,9 @@
-# Call of Suty: Black ops II 
+# Call of Duty: Black ops II 
 
-The **Sorex Project** *is nothing more than a project aimed at the entire community of players. In fact, the Sorex Project is a project that aims to meet the needs of the community of players*. 
-Zombies servers are **dedicated to the community** *that loves the world of Zombies Gamemode. In fact on Black op II Plutonium platform you can find Sorex Servers dedicated to* **Zombies Gamemode**.
+Our team has its origins in Call of Duty Black ops II. In fact in the client developed by [Plutonium](https://plutonium.pw/s) you can find our servers. In particular you can find our Zombies servers that have become the symbol of our project.
 
+Our team is dedicated to the development of servers with special features. In fact on our zombies server you can find many original and unique features that only our servers have.
 
-[Panel Web Server](https://t6zb.sorexproject.eu/)
+[Multiplayer Server](https://t6mp.sorexproject.eu/)
+
+[Zobmies Server](https://t6zb.sorexproject.eu/)

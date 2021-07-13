@@ -61,7 +61,7 @@ module.exports = {
                         ]
                     },
                     {   
-                        text: 'Multplayer Servers',
+                        text: 'Multiplayer Servers',
                         link: '/t6/multiplayer',
                         children: [
                             "/t6/multiplayer/features.md",
@@ -89,6 +89,10 @@ module.exports = {
             {
                 text: 'Home',
                 link: '/',
+            },
+            {
+                text: 'Discord',
+                link: 'https://discord.gg/8HNGUTVvmd',
             },
         ],
     }

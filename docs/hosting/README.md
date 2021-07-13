@@ -9,7 +9,13 @@ The price difference between server types relates to the cost of maintaining a g
 The service we provide is a service provided as a **`Hobby`**. We own virtual machines that we don't use for anything, and we want to use them to entertain the players. The money we get from this service is only to **`keep the costs`** of our virtual machines down.
 
 
-### FAQ: Frequently Asked Question
+## How to request a server
+
+To request a server you need to enter the discord dedicated to this service and open a ticket in the dedicated chat. You will be put in contact with the managers who will ask you which service you want and other information.
+
+Join in our [Discord Server](https://discord.gg/) if you are intersted on have your **`Sorex Studios Hosted`** Servers.
+
+## FAQ: Frequently Asked Question
 
 > Will I have access to the virtual machine?
 
@@ -20,3 +26,11 @@ Access is not allowed for maintaining private files, as we have special files (s
 
 Cheats are not allowed in any way. If you are caught using cheats, you will be banned from Plutonium. 
 Glitches are not allowed, but it is your server and you can decide whether or not to ban another user.
+
+> What type of payment is accepted?
+
+Donations via paypal are accepted with the option of sharing with friends and family. We are not a shop. We are reusing our virtual machines so as not to waste them.
+
+> Is it possible to be refunded after you have already paid?
+
+Unfortunately, this is not possible. Your donation cannot be refunded due to several reasons including the cost of fees.
