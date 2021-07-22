@@ -46,6 +46,7 @@ module.exports = {
         sidebar: [
             '/README.md',
             {
+               
                 text: 'Black ops II Servers',
                 link: '/t6',
                 children: [
@@ -72,14 +73,27 @@ module.exports = {
                 ]
             },
             {
-                text: 'Server Hosting',
-                link: '/hosting',
+                text: 'Services',
+                link: '/services',
                 children: [
-                    "/hosting/clients/T6.md", 
-                    "/hosting/clients/T4.md",
-                ]
+                    {
+                        text: 'Server Hosting',
+                        link: '/services/hosting',
+                        children: [
+                            "/services/hosting/clients/T6.md", 
+                            "/services/hosting/clients/T4.md",
+                        ]
+                    },
+                    {
+                        text: 'Server Setup',
+                        link: '/services/setup',
+                    }
+                ] 
+            },
+            {
+                text: 'Developed Project',
+                link: '/develop',
             }
-
         ],
 
 

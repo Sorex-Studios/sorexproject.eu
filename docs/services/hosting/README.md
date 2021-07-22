@@ -34,3 +34,7 @@ Donations via paypal are accepted with the option of sharing with friends and fa
 > Is it possible to be refunded after you have already paid?
 
 Unfortunately, this is not possible. Your donation cannot be refunded due to several reasons including the cost of fees.
+
+> How quickly will the server be ready?
+
+Time depends on our virtual machines and our availability. In the best case in a few hours the server will be ready.
