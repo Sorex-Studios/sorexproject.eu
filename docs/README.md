@@ -56,4 +56,3 @@ Our project is a non-profit project. We do not get any profit, everything we got
 The choice to shut down the servers is related to this situation. Hosting servers knowing that people want to take us down in unfair ways is not for us. We have been honest and kind to all server owners helping indiscriminately.
 
 We are glad to have helped many server owners with their servers such as Dojah, Skid, Profit, Twisted, Ayre, L3, S&R and CPL.
-

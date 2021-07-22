@@ -13,7 +13,7 @@ The service we provide is a service provided as a **`Hobby`**. We own virtual ma
 
 To request a server you need to enter the discord dedicated to this service and open a ticket in the dedicated chat. You will be put in contact with the managers who will ask you which service you want and other information.
 
-Join in our [Discord Server](https://discord.gg/) if you are intersted on have your **`Sorex Studios Hosted`** Servers.
+Join in our [Discord Server](https://discord.gg/gZKx5qg2DE) if you are intersted on have your **`Sorex Studios Hosted`** Servers.
 
 ## FAQ: Frequently Asked Question
 
