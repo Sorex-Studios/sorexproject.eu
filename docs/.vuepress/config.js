@@ -91,9 +91,11 @@ module.exports = {
                 ] 
             },
             {
-                text: 'Developed Project',
-                link: '/develop',
+                text: 'Policy',
+                link: '/policy',
             }
+
+            
         ],
 
 
