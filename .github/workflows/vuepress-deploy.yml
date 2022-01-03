@@ -17,4 +17,4 @@ jobs:
         TARGET_BRANCH: publish
         BUILD_SCRIPT: yarn && yarn build
         BUILD_DIR: docs/.vuepress/dist/
-        CNAME: sorexproject.eu
+        CNAME: docs.sorexproject.eu
